@@ -1,0 +1,23 @@
+.hero {
+    &__information {
+        &__event {
+            h1 {
+                font-size: 64px;
+                font-weight: 400;
+                text-transform: uppercase;
+            }
+            &__content__name {
+                color: black;
+            }
+            &__content {
+                color: #F2AA45;
+            }
+
+            p {
+                line-height: 12px;
+                padding-bottom: 24px;
+                font-size: 48px;
+            }
+        }
+    }
+}

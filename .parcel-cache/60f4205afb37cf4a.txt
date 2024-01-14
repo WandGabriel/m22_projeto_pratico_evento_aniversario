@@ -47,14 +47,14 @@
 90C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\csso\cjs\replace133496587582331023 1
 118C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\node-gyp-build-optional-packages\optional.js133496587563771028 0
 119C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133496587606721029 0
-65C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist133496636465841095 1
+65C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist133497462032222106 1
 106C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\resolver-default\LICENSE133496587559401023 0
 94C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\json5\lib\require.js133496587567141034 0
 104C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\postcss-value-parser\README.md133496587566771023 0
 114C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\json-parse-even-better-errors\LICENSE.md133496587562671033 0
 102C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\posthtml-render\package.json133496587561741020 0
 99C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\semver\ranges\simplify.js133496587582401023 0
-71C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\.gitignore133496591544309973 0
+71C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\.gitignore133496647003166801 0
 118C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133496587590491016 0
 99C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\svgo\plugins\prefixIds.js133496587587091027 0
 91C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@msgpackr-extract133496590801964832 1
@@ -78,7 +78,7 @@
 122C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\caniuse-lite\data\features\screen-orientation.js133496587623911020 0
 99C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\string-width\package.json133496587561531025 0
 94C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\electron-to-chromium133496587571121031 1
-75C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\src\index.html133496636463251095 0
+75C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\src\index.html133497461777901786 0
 85C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\emoji-regex133496587565231031 1
 118C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133496587582021040 0
 100C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\csso\node_modules\css-tree133496587612391034 1
@@ -114,7 +114,7 @@
 122C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\csso\cjs\restructure\prepare\processSelector.cjs133496587579031018 0
 110C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@swc\helpers\esm\_read_only_error.js133496587607781024 0
 125C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133496587562551015 0
-81C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\src\styles\main.scss133496636766891539 0
+81C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\src\styles\main.scss133497452094718854 0
 103C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\sass\types\value\boolean.d.ts133496590801484834 0
 113C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\css-tree\lib\syntax\atrule\font-face.js133496587608481021 0
 122C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\csso\node_modules\css-tree\cjs\parser\create.cjs133496587576421030 0
@@ -128,7 +128,7 @@
 119C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\lmdb\node_modules\node-addon-api\package.json133496587572261035 0
 115C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\csso\lib\restructure\8-restructRuleset.js133496587584661028 0
 105C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\caniuse-lite\data\regions\PF.js133496587622681038 0
-82C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\src\styles\_hero.scss133496636541621540 0
+82C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\src\styles\_hero.scss133497463445267063 0
 91C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\js-tokens\LICENSE133496587562731021 0
 107C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\reporter-cli\src\utils.js133496587570531039 0
 88C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\weak-lru-cache133496587567451029 1
@@ -669,7 +669,7 @@
 96C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\css-tree\dist\data.cjs133496587579381030 0
 96C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\update-browserslist-db133496587566201027 1
 125C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133496587573741026 0
-85C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\styles\main.css.map133496636767711556 0
+85C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\styles\main.css.map133497463445767065 0
 87C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\utility-types133496587570551022 1
 99C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\chalk\source\templates.js133496587561881019 0
 103C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\source-map\lib\source-node.js133496587569361028 0
@@ -2032,7 +2032,7 @@
 108C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\htmlnano\lib\modules\minifySvg.mjs133496587591781024 0
 94C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\msgpackr\SECURITY.md133496587585991024 0
 129C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\css-select\node_modules\domhandler\lib\esm\package.json133496587566211026 0
-85C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\scripts\main.js.map133496635841860778 0
+85C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\scripts\main.js.map133497434558626405 0
 138C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\dist\csstree.min.js133496587582281025 0
 92C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\msgpackr\struct.js133496587573431037 0
 97C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\msgpackr\test-worker.js133496587573801030 0
@@ -2433,7 +2433,7 @@
 92C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\is-json\.npmignore133496587560311024 0
 109C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\caniuse-lite\data\regions\alt-an.js133496587571861028 0
 117C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\caniuse-lite\data\features\localecompare.js133496587619381019 0
-73C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\scripts133496635841900764 1
+73C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\scripts133497434558646409 1
 150C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\TypeSelector.js133496587605851027 0
 125C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133496587610881046 0
 100C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@swc\helpers\src\index.mjs133496587617821029 0
@@ -3978,7 +3978,7 @@
 105C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\caniuse-lite\data\regions\BS.js133496587590921027 0
 125C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml133496587591261033 0
 105C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\caniuse-lite\data\regions\BZ.js133496587591321030 0
-103C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\M22-Exercicio-Aniversario.59712999.js133496636465791096 0
+103C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\M22-Exercicio-Aniversario.59712999.js133497434558586415 0
 105C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\caniuse-lite\data\regions\CA.js133496587591391021 0
 127C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\caniuse-lite\data\features\font-variant-alternates.js133496587615221026 0
 113C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules133496587630581031 1
@@ -5467,7 +5467,7 @@
 143C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\index.js133496587588981028 0
 150C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaFeature.js133496587590741025 0
 152C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133496587591001019 0
-83C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\index.f75de5e1.js133496635841670764 0
+83C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\index.f75de5e1.js133497434558346398 0
 141C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Nth.js133496587591561023 0
 146C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Operator.js133496587591971022 0
 149C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Parentheses.js133496587592181039 0
@@ -5568,7 +5568,7 @@
 146C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyAttrs.js133496587584331023 0
 151C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyContainers.js133496587584481021 0
 144C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeMetadata.js133496587585011058 0
-87C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\index.f75de5e1.js.map133496635841860778 0
+87C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\index.f75de5e1.js.map133497434558376410 0
 160C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133496587585261027 0
 155C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133496587586821034 0
 144C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnusedNS.js133496587587131026 0
@@ -6049,10 +6049,10 @@
 87C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\.bin\svgo.ps1133496587630771025 0
 105C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\.bin\update-browserslist-db.cmd133496587630781020 0
 105C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\node_modules\.bin\update-browserslist-db.ps1133496587630771025 0
-108C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\aniversario_baloes_e_presente.3d16c257.jpg133496635841630764 0
-76C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\index.html133496636464971107 0
+108C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\aniversario_baloes_e_presente.3d16c257.jpg133497434558296408 0
+76C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\index.html133497462032212111 0
 111C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\M22-Exercicio-Aniversario.59712999.js.11444.s133496634103899818 0
-107C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\M22-Exercicio-Aniversario.59712999.js.map133496636465841095 0
-72C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\styles133496636767721551 1
-81C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\styles\main.css133496636767671572 0
-81C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\scripts\main.js133496635841610763 0
+107C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\M22-Exercicio-Aniversario.59712999.js.map133497434558626405 0
+72C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\styles133497463445777045 1
+81C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\styles\main.css133497463445737035 0
+81C:\Users\Wanderson Gabriel\Desktop\M22-Exercicio-Aniversario\dist\scripts\main.js133497434558586415 0
